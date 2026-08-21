@@ -11,4 +11,4 @@ citation: 'Chung, Nara, and Marwil J. Dávila-Fernández. &quot;The Addicted Pre
 ---
 This paper introduces substance abuse into the Goodwin (1967) predator&ndash;prey growth-cycle framework as an endogenous channel linking income distribution to aggregate productivity. Using a continuous-time discrete-choice mechanism, workers transition between drug-abusing and drug-free states in response to the wage share, which in turn feeds back into productivity through a damage function. We ground the model empirically using U.S. state-level data from 1998&ndash;2019, and show theoretically that the resulting nonlinear system admits a unique interior equilibrium that loses stability via a Hopf bifurcation as the autonomous wage-growth parameter crosses a critical threshold, giving rise to persistent, bounded fluctuations and, in some regions of the parameter space, coexisting multiple limit cycles.
 
-[Download paper](/files/working_paper_ch2_addicted_predator_prey.pdf)
+

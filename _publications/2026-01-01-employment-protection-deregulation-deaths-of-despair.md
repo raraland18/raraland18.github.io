@@ -5,7 +5,7 @@ category: jmp
 permalink: /publication/employment-protection-deregulation-deaths-of-despair
 excerpt: 'Using OECD employment protection indicators and WHO mortality data for 26 advanced economies (1998&ndash;2019), I show that major employment-protection deregulation reforms are followed by a significant rise in drug-related and suicide mortality within five years &mdash; effects that are substantially smaller in countries with stronger social safety nets.'
 date: 2026-01-01
-venue: 'Job Market Paper (Dissertation Chapter 1) &mdash; **[update with current draft date]**'
+venue: 'Job Market Paper (Dissertation Chapter 1) &mdash; 08/23/2026'
 paperurl: '/files/jmp_chung.pdf'
 citation: 'Chung, Nara. &quot;Employment Protection Deregulation and Deaths of Despair.&quot; Job Market Paper, Colorado State University.'
 ---

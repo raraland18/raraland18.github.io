@@ -14,7 +14,7 @@ redirect_from:
 Current Position
 ======
 * Ph.D. Candidate in Economics, Colorado State University. Expected graduation: May 2027.
-* Graduate Teaching Instructor, Colorado State University, 2024&ndash;present (Graduate Teaching Assistant, 2021&ndash;2024).
+* Graduate Teaching Instructor, Colorado State University, Spring 2025&ndash;present (Graduate Teaching Assistant, Fall 2021&ndash;Spring 2024).
 
 Education
 ======
@@ -31,7 +31,7 @@ Research Interests
 Dissertation
 ======
 * **Title:** **_[Dissertation Title, e.g., "Essays on Labor Market Institutions, Health, and Macroeconomic Dynamics"]_**
-* **Chapter 1 (Job Market Paper):** "Employment Protection Deregulation and Deaths of Despair"
+* **Chapter 1 (Job Market Paper):** "Labor Market Deregulation and Deaths of Despair"
 * **Chapter 2:** "The Addicted Predator&ndash;Prey Model: How Substance Abuse Shapes Productivity and Growth-Cycle Dynamics" (with Marwil J. Dávila-Fernández)
 * **Chapter 3:** "Local Financialization, Financial Distress, and Deaths of Despair" *(work in progress)*
 * **Committee:** Daniele Tavani (Chair), Ray Miller, Marwil J. Dávila-Fernández, Brad Conner (Outside Member)

@@ -30,7 +30,7 @@ Research Interests
 
 Dissertation
 ======
-* **Title:** **_[Dissertation Title, e.g., "Essays on Labor Market Institutions, Health, and Macroeconomic Dynamics"]_**
+* **Title:** "Essays on Labor Market Institutions, Financial Structure, and Deaths of Despair"
 * **Chapter 1 (Job Market Paper):** "Labor Market Deregulation and Deaths of Despair"
 * **Chapter 2:** "The Addicted Predator&ndash;Prey Model: How Substance Abuse Shapes Productivity and Growth-Cycle Dynamics" (with Marwil J. Dávila-Fernández)
 * **Chapter 3:** "Local Financialization, Financial Distress, and Deaths of Despair" *(work in progress)*
@@ -79,7 +79,7 @@ Service and Leadership
 
 References
 ======
-* Daniele Tavani (Dissertation Chair), **_[Title]_**, Department of Economics, Colorado State University &mdash; **_[email]_** &mdash; **_[phone]_**
-* Ray Miller, **_[Title]_**, **_[Department]_**, Colorado State University &mdash; **_[email]_** &mdash; **_[phone]_**
-* Marwil J. Dávila-Fernández, **_[Title]_**, **_[Department/Institution]_** &mdash; **_[email]_** &mdash; **_[phone]_**
-* Brad Conner (Outside Member), **_[Title]_**, **_[Department]_**, Colorado State University &mdash; **_[email]_** &mdash; **_[phone]_**
+* Daniele Tavani (Dissertation Chair), Professor of Economics, Department of Economics, Colorado State University &mdash; [daniele.tavani@colostate.edu](mailto:daniele.tavani@colostate.edu) &mdash; (970) 491-6657
+* Ray Miller, Associate Professor of Economics, Department of Economics, Colorado State University &mdash; [ray.miller@colostate.edu](mailto:ray.miller@colostate.edu) &mdash; (970) 491-6816
+* Marwil J. Dávila-Fernández, Assistant Professor of Economics, Department of Economics, Colorado State University &mdash; [M.DavilaFernandez@colostate.edu](mailto:M.DavilaFernandez@colostate.edu) &mdash; (970) 491-0821
+* Anita Alves Pena, Professor of Economics, Department of Economics, Colorado State University &mdash; [anita.pena@colostate.edu](mailto:anita.pena@colostate.edu)

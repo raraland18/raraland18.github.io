@@ -18,4 +18,4 @@ Alongside my research, I have taught as a Graduate Teaching Instructor and Gradu
 **Fields:** Macroeconomics, Labor Economics, Health Economics
 **Topics:** Deaths of Despair &middot; Employment Protection Legislation &middot; Growth Cycles &middot; Financialization
 
-Feel free to reach out at [nara.chung89@gmail.com](mailto:nara.chung89@gmail.com) or **_[nara.chung@colostate.edu]_**.
+Feel free to reach out at [nara.chung@colostate.edu](mailto:nara.chung@colostate.edu).

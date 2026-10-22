@@ -32,7 +32,7 @@ Dissertation
 ======
 * **Title:** "Essays on Labor Market Institutions, Financial Structure, and Deaths of Despair"
 * **Chapter 1 (Job Market Paper):** "Labor Market Deregulation and Deaths of Despair"
-* **Chapter 2:** "The Addicted Predator&ndash;Prey Model: How Substance Abuse Shapes Productivity and Growth-Cycle Dynamics" (with Marwil J. Dávila-Fernández)
+* **Chapter 2:** "The Addicted Predator&ndash;Prey Model: How Opioid Use Disorder Shapes Productivity and Growth-Cycle Dynamics" (with Marwil J. Dávila-Fernández)
 * **Chapter 3:** "Local Financialization, Financial Distress, and Deaths of Despair" *(work in progress)*
 * **Committee:** Daniele Tavani (Chair), Ray Miller, Marwil J. Dávila-Fernández, Brad Conner (Outside Member)
 

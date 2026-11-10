@@ -1,5 +1,5 @@
 ---
-title: "Labor Market Deregulation and Deaths of Despair"
+title: "Labor Market Deregulation and Deaths of Despair: Evidence from Advanced Economies"
 collection: talks
 type: "Poster / conference talk"
 permalink: /talks/2025-11-01-csu-gradshow

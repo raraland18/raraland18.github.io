@@ -1,5 +1,5 @@
 ---
-title: "Labor Market Deregulation and Deaths of Despair"
+title: "Labor Market Deregulation and Deaths of Despair: Evidence from Advanced Economies"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2026-02-27-john-jay-new-school

@@ -84,9 +84,7 @@ Research
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+{% include talks-by-paper.html heading="h3" %}
 
 Awards and Honors
 ======

@@ -1,6 +1,8 @@
 ---
 title: "Labor Market Deregulation and Deaths of Despair: Evidence from Advanced Economies"
 collection: talks
+paper: jmp
+note: "Winner, College of Liberal Arts Top Scholar Award"
 type: "Poster / conference talk"
 permalink: /talks/2025-11-01-csu-gradshow
 venue: "CSU GradShow Program"

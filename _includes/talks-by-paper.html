@@ -1,0 +1,14 @@
+{%- include base_path -%}
+{%- assign heading = include.heading | default: "h2" -%}
+{%- for paper in site.data.talk_papers -%}
+{%- assign paper_talks = site.talks | where: "paper", paper.key | sort: "date" | reverse -%}
+{%- if paper_talks.size > 0 %}
+<{{ heading }} class="archive__item-title">{% if paper.url %}<a href="{{ base_path }}{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</{{ heading }}>
+{% if paper.note %}<p class="page__meta"><i>{{ paper.note }}</i></p>{% endif %}
+<ul>
+{%- for talk in paper_talks %}
+<li>{{ talk.venue }}, {{ talk.location }}, {{ talk.date | date: "%B %Y" }}{% if talk.type contains "forthcoming" %} (forthcoming){% endif %}{% if talk.note %}. <i>{{ talk.note }}</i>{% endif %}</li>
+{%- endfor %}
+</ul>
+{% endif -%}
+{%- endfor -%}

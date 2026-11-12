@@ -1,0 +1,13 @@
+# Order here controls the order of papers on the Talks page and the CV.
+# Each talk in _talks/ points to a paper with `paper: <key>`.
+- key: jmp
+  title: "Labor Market Deregulation and Deaths of Despair: Evidence from Advanced Economies"
+  url: /publication/employment-protection-deregulation-deaths-of-despair
+- key: ppm
+  title: "The Addicted Predator&ndash;Prey Model: How Opioid Use Disorder Shapes Productivity and Growth-Cycle Dynamics"
+  url: /publication/addicted-predator-prey-model
+  note: "With Marwil J. Dávila-Fernández"
+- key: tefl
+  title: "Adopting Conceptual Metaphors as a Persuasive Device in Learners' Argument"
+  url: /publication/conceptual-metaphors-persuasive-device
+  note: "Pre-Ph.D., applied linguistics"

@@ -1,6 +1,7 @@
 ---
 title: "Labor Market Deregulation and Deaths of Despair: Evidence from Advanced Economies"
 collection: talks
+paper: jmp
 type: "Conference talk"
 permalink: /talks/2026-02-27-john-jay-new-school
 venue: "John Jay College &ndash; New School Conference on Contemporary Political Economy"

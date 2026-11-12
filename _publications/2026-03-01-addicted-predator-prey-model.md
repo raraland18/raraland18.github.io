@@ -5,7 +5,7 @@ category: workingpapers
 permalink: /publication/addicted-predator-prey-model
 excerpt: 'With Marwil J. Dávila-Fernández. Extends the Goodwin growth-cycle model by letting the probability of opioid use disorder fall with the wage share; using U.S. state-level data for 1998&ndash;2019, the resulting system admits a limit cycle, and policies that weaken the link between income and OUD stabilize the dynamics.'
 date: 2026-03-01
-venue: 'Working Paper (Dissertation Chapter 2), with Marwil J. Dávila-Fernández, Colorado State University. Submitted to <i>Journal of Economic Behavior &amp; Organization</i>; posted on arXiv (econ.GN), October 2026'
+venue: 'Working Paper (Dissertation Chapter 2), with Marwil J. Dávila-Fernández, Colorado State University. Submitted to <i>Journal of Economic Behavior &amp; Organization</i>; <a href="https://arxiv.org/abs/2610.10356">arXiv:2610.10356</a> (econ.GN), October 2026'
 paperurl: '/files/working_paper_ch2_addicted_predator_prey.pdf'
 citation: 'Chung, Nara, and Marwil J. Dávila-Fernández. &quot;The Addicted Predator&ndash;Prey Model: How Opioid Use Disorder Shapes Productivity and Growth-Cycle Dynamics.&quot; Working paper, submitted to <i>Journal of Economic Behavior &amp; Organization</i>. arXiv:<a href="https://arxiv.org/abs/2610.10356">2610.10356</a> [econ.GN], 2026.'
 ---

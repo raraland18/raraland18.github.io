@@ -82,9 +82,11 @@ publication_category:
   jmp:
     title: 'Job Market Paper'
   workingpapers:
-    title: 'Working Papers and Work in Progress'
+    title: 'Working Papers'
+  workinprogress:
+    title: 'Work in Progress'
   manuscripts:
-    title: 'Peer-Reviewed Publications'
+    title: 'Pre-Ph.D. Peer-Reviewed Publication'
 
 # Site Settings
 teaser                   :

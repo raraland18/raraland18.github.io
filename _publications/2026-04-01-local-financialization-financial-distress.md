@@ -1,7 +1,7 @@
 ---
 title: "Local Financialization, Financial Distress, and Deaths of Despair"
 collection: publications
-category: workingpapers
+category: workinprogress
 permalink: /publication/local-financialization-financial-distress
 excerpt: 'Work in progress. Proposes a two-stage least squares design linking local financialization to household financial distress and, in turn, to deaths of despair at the state and county level.'
 date: 2026-04-01

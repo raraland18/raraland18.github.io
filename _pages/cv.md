@@ -48,11 +48,39 @@ See the full list on the [Teaching](/teaching/) page. In brief:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
+{% assign cv_pubs = site.publications | where: "category", "jmp" %}
+{% if cv_pubs.size > 0 %}
+<h3>Job Market Paper</h3>
+  <ul>{% for post in cv_pubs reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
+
+{% assign cv_pubs = site.publications | where: "category", "workingpapers" %}
+{% if cv_pubs.size > 0 %}
+<h3>Working Papers</h3>
+  <ul>{% for post in cv_pubs reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
+
+{% assign cv_pubs = site.publications | where: "category", "workinprogress" %}
+{% if cv_pubs.size > 0 %}
+<h3>Work in Progress</h3>
+  <ul>{% for post in cv_pubs reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
+
+{% assign cv_pubs = site.publications | where: "category", "manuscripts" %}
+{% if cv_pubs.size > 0 %}
+<h3>Pre-Ph.D. Peer-Reviewed Publication</h3>
+  <ul>{% for post in cv_pubs reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
 
 Talks
 ======
